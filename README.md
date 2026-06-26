@@ -72,5 +72,5 @@ Public demonstration dataset used for educational and analytical purposes.
 
 ## Author
 
-Jishnu S
+J S Jishnu 
 B.Tech CSE
